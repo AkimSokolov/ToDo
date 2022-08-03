@@ -1,0 +1,22 @@
+.subtask-list-shell{
+    margin: auto;
+    width:36vw;
+    margin-top: 1vh;
+}
+.subtask-list-form{
+    display: flex;
+}
+.line{
+    width: 3vw;
+    text-align: center;
+}
+.subtask-item{
+    display: flex;
+}
+
+.remove-subtask {
+    font-size: 10px;
+}
+.subtask-description-complete{
+    text-decoration: line-through;
+}

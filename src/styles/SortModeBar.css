@@ -1,0 +1,15 @@
+.sort-mode-bar{
+    float: right;
+    margin-right: 1vw;
+}
+.sort-mode-button-false{
+    background-color: #fff;
+    border: 1px solid #000;
+}
+.sort-mode-button-true{
+    background-color: rgb(25, 100, 15);
+    border: 1px solid #000;
+}
+.sort-mode-button-false:hover{
+    background-color: rgb(219, 215, 215);
+}

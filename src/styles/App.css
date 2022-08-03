@@ -1,0 +1,10 @@
+.App {
+    margin: auto;
+    width: 38vw;
+    min-height: 30vh;
+    border: 2px solid #282c34;
+    border-radius: 10px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding-bottom: 2vh;
+  }

@@ -1,0 +1,37 @@
+.tasks-creator-button{
+    background-color: #fff;
+    height: 10vh;
+    border: none;
+    border-radius: 10px;
+    max-width: 33vw;
+    border: 1px solid #fff;
+    
+}
+.tasks-creator-button:hover{
+    background-color: #E2E0D2;
+    border: 1px solid #000;
+}
+.todo-create-form-shell{
+    margin:auto;
+    height: 10vh;
+    width: 33vw ;
+    border: 1px solid #000;
+    border-radius: 10px;
+    margin-bottom: 2vh;
+    display: table;
+
+}
+.todo-create-form{
+    display: table-cell;
+    vertical-align: middle;
+}
+.todo-create-form-text-holder{
+   height: 7vh;
+   font-size: 17px;
+   max-width: 33vw;
+   border:none;
+   border-radius: 10px;
+}
+.todo-create-form-text-holder:focus{
+    outline: none;
+}
